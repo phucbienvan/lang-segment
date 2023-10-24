@@ -1,0 +1,5 @@
+SAM model,Box threshold,Text threshold,Image,Text Prompt,Output Image,flag,username,timestamp
+vit_h,0.3,0.25,/Users/mac/lang-segment-anything/flagged/Image/733b388ba947346c2514a7ebb53d4f0984cc5b51/tmpe6yj4rrw.png,"hair, face",/Users/mac/lang-segment-anything/flagged/Output Image/8f4ff1ee0deabbe524702e67e29c58f65737a6fc/tmpgj656rk1.png,,,2023-10-24 09:22:33.303738
+vit_h,0.3,0.25,/Users/mac/lang-segment-anything/flagged/Image/99de124868fc19f2153e701f5b92d7ccd38d120b/tmpinh9nax2.png,face,/Users/mac/lang-segment-anything/flagged/Output_Image/84d16f7b6301f46c002b18863e793c4f4055cb50/tmpvdiyqy8o.png,,,2023-10-24 09:48:24.098984
+vit_h,0.3,0.25,/Users/mac/lang-segment-anything/flagged/Image/291640b3f4c26639be0649e03015fc097d2594df/tmpl5y1sw7b.png,roof,/Users/mac/lang-segment-anything/flagged/Output_Image/4037e64cb203530b5e293ea1bc2098f8f382864e/tmpgteh5x31.png,,,2023-10-24 10:56:57.118415
+vit_h,0.3,0.25,/Users/mac/lang-segment-anything/flagged/Image/3f20bc7521d22e1eda251b1703f11188ca7f112a/tmp0jplzx2j.png,roof,/Users/mac/lang-segment-anything/flagged/Output_Image/38e5c36f2f28b8ebda86b441f2f89da9ae5156c3/tmplb2y23zd.png,,,2023-10-24 10:59:57.741974
