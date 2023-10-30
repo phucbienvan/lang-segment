@@ -64,7 +64,7 @@ class LitGradio(ServeGradio):
         masks, boxes, phrases, logits = self.model.predict(image_pil, text_prompt, box_threshold, text_threshold)
         labels = [f"{phrase} {logit:.2f}" for phrase, logit in zip(phrases, logits)]
         image_array = np.asarray(image_pil)
-        image = draw_image(image_array, masks, boxes, labels)
+        image = draw_image(image_array, masks, boxes, labels, alpha=0.4)
         image = Image.fromarray(np.uint8(image)).convert("RGB")
         return image
 
